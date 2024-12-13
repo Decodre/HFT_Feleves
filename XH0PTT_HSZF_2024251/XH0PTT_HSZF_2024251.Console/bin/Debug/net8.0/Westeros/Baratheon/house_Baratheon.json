@@ -1,0 +1,21 @@
+{
+  "Name": "Baratheon",
+  "Ruler": "Robert Baratheon",
+  "ArmySize": 25000,
+  "EstablishedYear": 1287,
+  "Seat": "Storm's End",
+  "Allies": [
+    "Stark",
+    "Arryn"
+  ],
+  "Characters": [
+    {
+      "Name": "Stannis Baratheon",
+      "BattleCount": 12
+    },
+    {
+      "Name": "Renly Baratheon",
+      "BattleCount": 7
+    }
+  ]
+}

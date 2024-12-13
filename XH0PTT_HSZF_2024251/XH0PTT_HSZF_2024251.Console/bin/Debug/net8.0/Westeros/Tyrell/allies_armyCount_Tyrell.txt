@@ -1,0 +1,3 @@
+House Name: Tyrell
+Total Allies: 1
+Army Strength: 40000

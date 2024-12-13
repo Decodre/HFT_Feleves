@@ -1,0 +1,20 @@
+{
+  "Name": "Tyrell",
+  "Ruler": "Mace Tyrell",
+  "ArmySize": 40000,
+  "EstablishedYear": 980,
+  "Seat": "Highgarden",
+  "Allies": [
+    "Lannister"
+  ],
+  "Characters": [
+    {
+      "Name": "Margaery Tyrell",
+      "BattleCount": 1
+    },
+    {
+      "Name": "Loras Tyrell",
+      "BattleCount": 4
+    }
+  ]
+}

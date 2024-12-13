@@ -1,0 +1,20 @@
+{
+  "Name": "Greyjoy",
+  "Ruler": "Balon Greyjoy",
+  "ArmySize": 15000,
+  "EstablishedYear": 1100,
+  "Seat": "Pyke",
+  "Allies": [
+    "Targaryen"
+  ],
+  "Characters": [
+    {
+      "Name": "Theon Greyjoy",
+      "BattleCount": 5
+    },
+    {
+      "Name": "Yara Greyjoy",
+      "BattleCount": 6
+    }
+  ]
+}

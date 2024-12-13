@@ -1,0 +1,3 @@
+House Name: Arryn
+Total Allies: 1
+Army Strength: 10000

@@ -1,0 +1,3 @@
+House Name: New House
+Total Allies: 0
+Army Strength: 20000

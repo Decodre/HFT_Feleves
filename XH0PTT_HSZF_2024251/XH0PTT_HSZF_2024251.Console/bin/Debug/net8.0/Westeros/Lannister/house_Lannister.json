@@ -1,0 +1,25 @@
+{
+  "Name": "Lannister",
+  "Ruler": "Tywin Lannister",
+  "ArmySize": 30000,
+  "EstablishedYear": 1010,
+  "Seat": "Casterly Rock",
+  "Allies": [
+    "Frey",
+    "Bolton"
+  ],
+  "Characters": [
+    {
+      "Name": "Jaime Lannister",
+      "BattleCount": 15
+    },
+    {
+      "Name": "Tyrion Lannister",
+      "BattleCount": 3
+    },
+    {
+      "Name": "Cersei Lannister",
+      "BattleCount": 8
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "Bolton",
+  "Ruler": "Roose Bolton",
+  "ArmySize": 12000,
+  "EstablishedYear": 850,
+  "Seat": "Dreadfort",
+  "Allies": [
+    "Lannister"
+  ],
+  "Characters": [
+    {
+      "Name": "Ramsay Bolton",
+      "BattleCount": 10
+    }
+  ]
+}

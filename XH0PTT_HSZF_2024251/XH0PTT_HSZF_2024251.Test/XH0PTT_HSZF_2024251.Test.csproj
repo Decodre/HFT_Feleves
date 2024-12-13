@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XH0PTT_HSZF_2024251.Application\XH0PTT_HSZF_2024251.Application.csproj" />
+    <ProjectReference Include="..\XH0PTT_HSZF_2024251.Model\XH0PTT_HSZF_2024251.Model.csproj" />
+    <ProjectReference Include="..\XH0PTT_HSZF_2024251.Persistance.MsSql\XH0PTT_HSZF_2024251.Persistance.MsSql.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
+    <PackageReference Include="Moq" Version="4.20.72" />
+    <PackageReference Include="NUnit" Version="4.2.2" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.6.0" />
+  </ItemGroup>
+
+</Project>

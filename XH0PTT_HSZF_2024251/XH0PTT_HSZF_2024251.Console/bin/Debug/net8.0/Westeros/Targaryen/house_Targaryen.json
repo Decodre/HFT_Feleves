@@ -1,0 +1,21 @@
+{
+  "Name": "Targaryen",
+  "Ruler": "Daenerys Targaryen",
+  "ArmySize": 100000,
+  "EstablishedYear": 102,
+  "Seat": "Dragonstone",
+  "Allies": [
+    "Stark",
+    "Greyjoy"
+  ],
+  "Characters": [
+    {
+      "Name": "Daenerys Targaryen",
+      "BattleCount": 20
+    },
+    {
+      "Name": "Rhaegar Targaryen",
+      "BattleCount": 10
+    }
+  ]
+}

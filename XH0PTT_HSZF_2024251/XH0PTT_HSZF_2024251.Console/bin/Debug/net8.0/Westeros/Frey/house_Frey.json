@@ -1,0 +1,16 @@
+{
+  "Name": "Frey",
+  "Ruler": "Walder Frey",
+  "ArmySize": 10000,
+  "EstablishedYear": 930,
+  "Seat": "The Twins",
+  "Allies": [
+    "Lannister"
+  ],
+  "Characters": [
+    {
+      "Name": "Black Walder Frey",
+      "BattleCount": 4
+    }
+  ]
+}

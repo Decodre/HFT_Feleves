@@ -1,0 +1,14 @@
+{
+  "Name": "NewH",
+  "Ruler": "RulElek",
+  "ArmySize": 20000,
+  "EstablishedYear": 1222,
+  "Seat": "Seat",
+  "Allies": [],
+  "Characters": [
+    {
+      "Name": "NewAladar",
+      "BattleCount": 3
+    }
+  ]
+}

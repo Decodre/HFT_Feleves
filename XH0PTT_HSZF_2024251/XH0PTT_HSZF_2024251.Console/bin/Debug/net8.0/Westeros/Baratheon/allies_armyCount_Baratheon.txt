@@ -1,0 +1,3 @@
+House Name: Baratheon
+Total Allies: 2
+Army Strength: 25000

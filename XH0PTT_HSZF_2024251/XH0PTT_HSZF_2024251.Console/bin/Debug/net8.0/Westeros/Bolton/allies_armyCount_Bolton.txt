@@ -1,0 +1,3 @@
+House Name: Bolton
+Total Allies: 1
+Army Strength: 12000

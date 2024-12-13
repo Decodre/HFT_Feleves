@@ -1,0 +1,26 @@
+{
+  "Name": "Stark",
+  "Ruler": "Eddard Stark",
+  "ArmySize": 20000,
+  "EstablishedYear": 1290,
+  "Seat": "Winterfell",
+  "Allies": [
+    "Arryn",
+    "Tully",
+    "Targaryen"
+  ],
+  "Characters": [
+    {
+      "Name": "Robb Stark",
+      "BattleCount": 10
+    },
+    {
+      "Name": "Sansa Stark",
+      "BattleCount": 2
+    },
+    {
+      "Name": "Arya Stark",
+      "BattleCount": 5
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+House Name: Lannister
+Total Allies: 2
+Army Strength: 30000

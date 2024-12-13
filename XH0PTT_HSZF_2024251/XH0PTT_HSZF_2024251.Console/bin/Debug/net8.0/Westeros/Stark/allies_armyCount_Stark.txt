@@ -1,0 +1,3 @@
+House Name: Stark
+Total Allies: 3
+Army Strength: 20000

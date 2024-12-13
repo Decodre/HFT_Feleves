@@ -1,0 +1,3 @@
+House Name: Martell
+Total Allies: 1
+Army Strength: 25000

@@ -1,0 +1,11 @@
+{
+  "Name": "Stark",
+  "Ruler": "Eddard Stark",
+  "ArmySize": 5000,
+  "EstablishedYear": 800,
+  "Seat": "Winterfell",
+  "Allies": [
+    "Lannister"
+  ],
+  "Characters": []
+}

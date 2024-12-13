@@ -1,0 +1,20 @@
+{
+  "Name": "Martell",
+  "Ruler": "Doran Martell",
+  "ArmySize": 25000,
+  "EstablishedYear": 700,
+  "Seat": "Sunspear",
+  "Allies": [
+    "Targaryen"
+  ],
+  "Characters": [
+    {
+      "Name": "Oberyn Martell",
+      "BattleCount": 9
+    },
+    {
+      "Name": "Ellaria Sand",
+      "BattleCount": 3
+    }
+  ]
+}

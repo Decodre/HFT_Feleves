@@ -1,0 +1,203 @@
+<Houses>
+  <House>
+    <Name>Stark</Name>
+    <Ruler>Eddard Stark</Ruler>
+    <Allies>
+      <Ally>Arryn</Ally>
+      <Ally>Tully</Ally>
+      <Ally>Targaryen</Ally>
+    </Allies>
+    <ArmySize>20000</ArmySize>
+    <EstablishedYear>1290</EstablishedYear>
+    <Seat>Winterfell</Seat>
+    <Characters>
+      <Character>
+        <Name>Robb Stark</Name>
+        <BattleCount>10</BattleCount>
+      </Character>
+      <Character>
+        <Name>Sansa Stark</Name>
+        <BattleCount>2</BattleCount>
+      </Character>
+      <Character>
+        <Name>Arya Stark</Name>
+        <BattleCount>5</BattleCount>
+      </Character>
+    </Characters>
+  </House>
+  <House>
+    <Name>Lannister</Name>
+    <Ruler>Tywin Lannister</Ruler>
+    <Allies>
+      <Ally>Frey</Ally>
+      <Ally>Bolton</Ally>
+    </Allies>
+    <ArmySize>30000</ArmySize>
+    <EstablishedYear>1010</EstablishedYear>
+    <Seat>Casterly Rock</Seat>
+    <Characters>
+      <Character>
+        <Name>Jaime Lannister</Name>
+        <BattleCount>15</BattleCount>
+      </Character>
+      <Character>
+        <Name>Tyrion Lannister</Name>
+        <BattleCount>3</BattleCount>
+      </Character>
+      <Character>
+        <Name>Cersei Lannister</Name>
+        <BattleCount>8</BattleCount>
+      </Character>
+    </Characters>
+  </House>
+  <House>
+    <Name>Targaryen</Name>
+    <Ruler>Daenerys Targaryen</Ruler>
+    <Allies>
+      <Ally>Stark</Ally>
+      <Ally>Greyjoy</Ally>
+    </Allies>
+    <ArmySize>100000</ArmySize>
+    <EstablishedYear>102</EstablishedYear>
+    <Seat>Dragonstone</Seat>
+    <Characters>
+      <Character>
+        <Name>Daenerys Targaryen</Name>
+        <BattleCount>20</BattleCount>
+      </Character>
+      <Character>
+        <Name>Rhaegar Targaryen</Name>
+        <BattleCount>10</BattleCount>
+      </Character>
+    </Characters>
+  </House>
+  <House>
+    <Name>Baratheon</Name>
+    <Ruler>Robert Baratheon</Ruler>
+    <Allies>
+      <Ally>Stark</Ally>
+      <Ally>Arryn</Ally>
+    </Allies>
+    <ArmySize>25000</ArmySize>
+    <EstablishedYear>1287</EstablishedYear>
+    <Seat>Storm's End</Seat>
+    <Characters>
+      <Character>
+        <Name>Stannis Baratheon</Name>
+        <BattleCount>12</BattleCount>
+      </Character>
+      <Character>
+        <Name>Renly Baratheon</Name>
+        <BattleCount>7</BattleCount>
+      </Character>
+    </Characters>
+  </House>
+  <House>
+    <Name>Greyjoy</Name>
+    <Ruler>Balon Greyjoy</Ruler>
+    <Allies>
+      <Ally>Targaryen</Ally>
+    </Allies>
+    <ArmySize>15000</ArmySize>
+    <EstablishedYear>1100</EstablishedYear>
+    <Seat>Pyke</Seat>
+    <Characters>
+      <Character>
+        <Name>Theon Greyjoy</Name>
+        <BattleCount>5</BattleCount>
+      </Character>
+      <Character>
+        <Name>Yara Greyjoy</Name>
+        <BattleCount>6</BattleCount>
+      </Character>
+    </Characters>
+  </House>
+  <House>
+    <Name>Tyrell</Name>
+    <Ruler>Mace Tyrell</Ruler>
+    <Allies>
+      <Ally>Lannister</Ally>
+    </Allies>
+    <ArmySize>40000</ArmySize>
+    <EstablishedYear>980</EstablishedYear>
+    <Seat>Highgarden</Seat>
+    <Characters>
+      <Character>
+        <Name>Margaery Tyrell</Name>
+        <BattleCount>1</BattleCount>
+      </Character>
+      <Character>
+        <Name>Loras Tyrell</Name>
+        <BattleCount>4</BattleCount>
+      </Character>
+    </Characters>
+  </House>
+  <House>
+    <Name>Martell</Name>
+    <Ruler>Doran Martell</Ruler>
+    <Allies>
+      <Ally>Targaryen</Ally>
+    </Allies>
+    <ArmySize>25000</ArmySize>
+    <EstablishedYear>700</EstablishedYear>
+    <Seat>Sunspear</Seat>
+    <Characters>
+      <Character>
+        <Name>Oberyn Martell</Name>
+        <BattleCount>9</BattleCount>
+      </Character>
+      <Character>
+        <Name>Ellaria Sand</Name>
+        <BattleCount>3</BattleCount>
+      </Character>
+    </Characters>
+  </House>
+  <House>
+    <Name>Arryn</Name>
+    <Ruler>Jon Arryn</Ruler>
+    <Allies>
+      <Ally>Stark</Ally>
+    </Allies>
+    <ArmySize>10000</ArmySize>
+    <EstablishedYear>950</EstablishedYear>
+    <Seat>The Eyrie</Seat>
+    <Characters>
+      <Character>
+        <Name>Robin Arryn</Name>
+        <BattleCount>0</BattleCount>
+      </Character>
+    </Characters>
+  </House>
+  <House>
+    <Name>Bolton</Name>
+    <Ruler>Roose Bolton</Ruler>
+    <Allies>
+      <Ally>Lannister</Ally>
+    </Allies>
+    <ArmySize>12000</ArmySize>
+    <EstablishedYear>850</EstablishedYear>
+    <Seat>Dreadfort</Seat>
+    <Characters>
+      <Character>
+        <Name>Ramsay Bolton</Name>
+        <BattleCount>10</BattleCount>
+      </Character>
+    </Characters>
+  </House>
+  <House>
+    <Name>Frey</Name>
+    <Ruler>Walder Frey</Ruler>
+    <Allies>
+      <Ally>Lannister</Ally>
+    </Allies>
+    <ArmySize>10000</ArmySize>
+    <EstablishedYear>930</EstablishedYear>
+    <Seat>The Twins</Seat>
+    <Characters>
+      <Character>
+        <Name>Black Walder Frey</Name>
+        <BattleCount>4</BattleCount>
+      </Character>
+    </Characters>
+  </House>
+</Houses>

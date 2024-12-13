@@ -1,0 +1,3 @@
+House Name: Greyjoy
+Total Allies: 1
+Army Strength: 15000

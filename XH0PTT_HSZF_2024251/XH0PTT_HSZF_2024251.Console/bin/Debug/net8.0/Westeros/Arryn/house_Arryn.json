@@ -1,0 +1,16 @@
+{
+  "Name": "Arryn",
+  "Ruler": "Jon Arryn",
+  "ArmySize": 10000,
+  "EstablishedYear": 950,
+  "Seat": "The Eyrie",
+  "Allies": [
+    "Stark"
+  ],
+  "Characters": [
+    {
+      "Name": "Robin Arryn",
+      "BattleCount": 0
+    }
+  ]
+}

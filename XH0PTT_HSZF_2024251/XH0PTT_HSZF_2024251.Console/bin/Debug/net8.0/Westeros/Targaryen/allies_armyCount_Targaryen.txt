@@ -1,0 +1,3 @@
+House Name: Targaryen
+Total Allies: 2
+Army Strength: 100000
